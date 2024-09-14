@@ -1,5 +1,5 @@
 flask
 numpy
 tensorflow
-PIL
-io
+pillow
+
